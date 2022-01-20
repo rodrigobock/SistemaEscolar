@@ -1,0 +1,14 @@
+Primeiramente, abrir o projeto no Visual Studio Code
+
+Após isso, executar o arquivo models.py para criar o banco de dados. Em seguida, executar o backend.py para rodar o servidor.
+
+Abrir o link localhost:5000 para verificar as classes criadas em formatação JSON.
+
+Visto isso, abrir o arquivo localizado no caminho: AV4/front-end/html/index.html 
+
+No menu superior, ao clicar em Cadastrar Aluno, será possivel adicionar um novo aluno ao sistema
+Em cadastrar Professor-Disciplina será possível designar um determinado professor para uma determinada disciplina.
+
+OBS: A classe professor possui uma coluna chamada disciplina, porém é a disciplina cursada na qual o professor tem conhecimento, não a que ele está lecionando. Por isso é necessário adicionar o professor à disciplina.
+
+Demais telas para listagem de cadastros.
